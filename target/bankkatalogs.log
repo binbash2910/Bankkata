@@ -1,0 +1,45 @@
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: -----------BANK KATA-------------
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: -----------ONE ACCOUNT STATEMENT-------------
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: ---------------------ACCOUNT STATEMENT---------------------
+Account statement date = 2020-09-02
+Account Number = 1
+Creation Date = 2020-09-02
+Balance = 0
+Agency = 1 BANK ONE LA DEFENSE
+Client = ETIENNE MARCEL
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: -----------ONE DEPOSIT -------------
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: -----------ACCOUNT STATEMENT AFTER ONE DEPOSIT-------------
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: 1000
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: -----------ONE WITHDRAWAL -------------
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: -----------ACCOUNT STATEMENT AFTER ONE WITHDRAWAL-------------
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: 500
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: -----------ACCOUNT STATEMENT AFTER ALL TRANSACTIONS-------------
+sept. 02, 2020 5:41:54 PM org.bankkata.application.BankkataApplication main
+INFOS: ---------------------ACCOUNT STATEMENT---------------------
+Account statement date = 2020-09-02
+Account Number = 1
+Creation Date = 2020-09-02
+Balance = 500
+Agency = 1 BANK ONE LA DEFENSE
+Client = ETIENNE MARCEL
+---------------------WITHDRAWAL---------------------
+Transaction Number = 2
+Transaction Type = WITHDRAWAL
+Transaction Date = 2020-09-02
+Transaction Amount = 500
+---------------------DEPOSIT---------------------
+Transaction Number = 1
+Transaction Type = DEPOSIT
+Transaction Date = 2020-09-02
+Transaction Amount = 1000
+
