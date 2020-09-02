@@ -1,0 +1,15 @@
+org\bankkata\entities\Transaction.class
+org\bankkata\entities\Client.class
+org\bankkata\exceptions\NegativeAmountException.class
+org\bankkata\utils\TransactionType.class
+org\bankkata\entities\CurrentAccount.class
+org\bankkata\entities\SavingAccount.class
+org\bankkata\entities\Account.class
+org\bankkata\entities\Address.class
+org\bankkata\dao\TransactionDatas.class
+org\bankkata\exceptions\OverDraftLimitException.class
+org\bankkata\service\AccountService.class
+org\bankkata\dao\AccountDatas.class
+org\bankkata\exceptions\NegativeBalanceException.class
+org\bankkata\entities\Agency.class
+org\bankkata\exceptions\NonExistingAccountException.class
