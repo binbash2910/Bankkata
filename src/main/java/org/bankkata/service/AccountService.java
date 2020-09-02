@@ -20,7 +20,7 @@ public class AccountService {
 
 	static long transactionNumber = 0;
 
-	public BigDecimal deposit(Account account, BigDecimal amount)
+	public synchronized BigDecimal deposit(Account account, BigDecimal amount)
 			throws NegativeAmountException, NonExistingAccountException {
 		if (amount.doubleValue() < 0) {
 			throw new NegativeAmountException(amount);
@@ -40,7 +40,7 @@ public class AccountService {
 		return account.getBalance();
 	}
 
-	public BigDecimal withdrawal(Account account, BigDecimal amount) throws NegativeAmountException,
+	public synchronized BigDecimal withdrawal(Account account, BigDecimal amount) throws NegativeAmountException,
 			NonExistingAccountException, OverDraftLimitException, NegativeBalanceException {
 		if (amount.doubleValue() < 0) {
 			throw new NegativeAmountException(amount);

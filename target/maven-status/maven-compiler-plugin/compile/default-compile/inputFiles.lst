@@ -8,6 +8,7 @@ D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\entities\CurrentA
 D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\entities\Agency.java
 D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\entities\Transaction.java
 D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\utils\TransactionType.java
+D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\application\BankkataApplication.java
 D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\dao\TransactionDatas.java
 D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\exceptions\NonExistingAccountException.java
 D:\workspace\eclipse2\kata\bankkata\src\main\java\org\bankkata\entities\Client.java

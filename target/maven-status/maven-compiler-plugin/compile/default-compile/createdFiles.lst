@@ -3,6 +3,7 @@ org\bankkata\entities\Client.class
 org\bankkata\exceptions\NegativeAmountException.class
 org\bankkata\utils\TransactionType.class
 org\bankkata\entities\CurrentAccount.class
+org\bankkata\application\BankkataApplication.class
 org\bankkata\entities\SavingAccount.class
 org\bankkata\entities\Account.class
 org\bankkata\entities\Address.class
